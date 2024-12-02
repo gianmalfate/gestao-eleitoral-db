@@ -46,4 +46,4 @@ Para utilizar o script, basta executar o arquivo ``main.py`` com o seguinte cód
 python main.py
 ```
 
-Com isso você já poderá realizar consultas nos dados e excluílos!
+Com isso você já poderá realizar consultas nos dados e excluí-los!
